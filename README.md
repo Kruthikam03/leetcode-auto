@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/Kruthikam03/leetcode-auto/tree/master/0344-reverse-string) |
 | [1108-defanging-an-ip-address](https://github.com/Kruthikam03/leetcode-auto/tree/master/1108-defanging-an-ip-address) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Kruthikam03/leetcode-auto/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Hash Table
@@ -69,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Kruthikam03/leetcode-auto/tree/master/0268-missing-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/Kruthikam03/leetcode-auto/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
