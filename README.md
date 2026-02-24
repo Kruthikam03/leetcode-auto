@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Kruthikam03/leetcode-auto/tree/master/0009-palindrome-number) |
 | [0268-missing-number](https://github.com/Kruthikam03/leetcode-auto/tree/master/0268-missing-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Kruthikam03/leetcode-auto/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/Kruthikam03/leetcode-auto/tree/master/1512-number-of-good-pairs) |
