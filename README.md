@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Kruthikam03/leetcode-auto/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/Kruthikam03/leetcode-auto/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Kruthikam03/leetcode-auto/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/Kruthikam03/leetcode-auto/tree/master/0119-pascals-triangle-ii) |
 | [0217-contains-duplicate](https://github.com/Kruthikam03/leetcode-auto/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Kruthikam03/leetcode-auto/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Kruthikam03/leetcode-auto/tree/master/0283-move-zeroes) |
@@ -122,4 +123,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/Kruthikam03/leetcode-auto/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/Kruthikam03/leetcode-auto/tree/master/0119-pascals-triangle-ii) |
 <!---LeetCode Topics End-->
