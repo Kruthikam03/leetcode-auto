@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Kruthikam03/leetcode-auto/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Kruthikam03/leetcode-auto/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Kruthikam03/leetcode-auto/tree/master/0035-search-insert-position) |
+| [0088-merge-sorted-array](https://github.com/Kruthikam03/leetcode-auto/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Kruthikam03/leetcode-auto/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Kruthikam03/leetcode-auto/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Kruthikam03/leetcode-auto/tree/master/0283-move-zeroes) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Kruthikam03/leetcode-auto/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Kruthikam03/leetcode-auto/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Kruthikam03/leetcode-auto/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/Kruthikam03/leetcode-auto/tree/master/0977-squares-of-a-sorted-array) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Kruthikam03/leetcode-auto/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Kruthikam03/leetcode-auto/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Kruthikam03/leetcode-auto/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0088-merge-sorted-array](https://github.com/Kruthikam03/leetcode-auto/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/Kruthikam03/leetcode-auto/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Kruthikam03/leetcode-auto/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/Kruthikam03/leetcode-auto/tree/master/0567-permutation-in-string) |
